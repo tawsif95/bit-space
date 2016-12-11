@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\tawsi\Desktop\SpeechToText1\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\tawsi\Desktop\SpeechToText1\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.0_027fc91869408cc7ce22f2a47b6b97bf37b749ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tawsi\Desktop\SpeechToText1\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\tawsi\Desktop\SpeechToText1\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_7135b29bd25a5b43d9970373dcfa03764908ae9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tawsi\Desktop\SpeechToText1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\tawsi\Desktop\SpeechToText1\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_a1e402ea2d9c1a8f5d8a4caf257973a5a2a8213a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tawsi\Desktop\SpeechToText1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\tawsi\Desktop\SpeechToText1\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_9cdcaccc7686b3059c35567c4f3e662ddaf4c3ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tawsi\Desktop\SpeechToText1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\tawsi\Desktop\SpeechToText1\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_ca888b7ee523ae159f5c26559c50b3b8a42d270f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tawsi\Desktop\SpeechToText1\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\tawsi\Desktop\SpeechToText1\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_117625cfc977bc652c33c123ac202c59692f6efc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tawsi\Desktop\SpeechToText1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\tawsi\Desktop\SpeechToText1\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_3d5e207ff5f5e456b1fa9bdf7cb7b70f1e38b5cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tawsi\Desktop\SpeechToText1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\tawsi\Desktop\SpeechToText1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_df50753089edf20565d84706c168b31766d6fbe1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tawsi\Desktop\SpeechToText1\app\build\intermediates\exploded-aar\com.android.support\preference-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a200389b6c5adb38be8830f85fb5d3bb35ec9950">
+        <dex dex="C:\Users\tawsi\Desktop\SpeechToText1\app\build\intermediates\pre-dexed\debug\com.android.support-preference-v7-25.0.0_8281e2ab7d3afd10f92c8bb2cfbdd4b13294933b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tawsi\Desktop\SpeechToText1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\tawsi\Desktop\SpeechToText1\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_41816b5b8a5795ec44b1f61edee31f656acff5a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tawsi\Desktop\SpeechToText1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\tawsi\Desktop\SpeechToText1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_e30f106f25941a91d4387bf1c5c76c23abe7f672.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tawsi\Desktop\SpeechToText1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\tawsi\Desktop\SpeechToText1\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_213246cd8c76dd725e2eedca793cbe33b512c271.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tawsi\Desktop\SpeechToText1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\tawsi\Desktop\SpeechToText1\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_338a56fa36291a5dcd7260363a6cabc13a6b84de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tawsi\Desktop\SpeechToText1\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\tawsi\Desktop\SpeechToText1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_95a999805a82299c9d85faec3a69e7d946a01ac5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tawsi\Desktop\SpeechToText1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\tawsi\Desktop\SpeechToText1\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_56563a725acfda924d2b7794e7871c75e8d1d5fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tawsi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\tawsi\Desktop\SpeechToText1\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_3fa78da323ad308d94dfa18293ecdf12fc910017.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tawsi\Desktop\SpeechToText1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\tawsi\Desktop\SpeechToText1\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_287050b65673cc12a45aa93cf229a3f24f34e18d.jar" />
+    </item>
+
+</items>
